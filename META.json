@@ -1,0 +1,63 @@
+{
+  "category": "static-site-generators",
+  "created_date": "2025-09-15T22:48:57.752132",
+  "default_ports": [
+    80,
+    443
+  ],
+  "dependencies": [
+    "nodejs",
+    "npm"
+  ],
+  "description": "hexo is a free and open-source blog framework. Hexo provides fast, simple, and powerful blog framework",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/static-site-generators/hexo",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/static-site-generators/hexo",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.752156",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "hexo",
+  "repository_url": "https://github.com/howtomgr/hexo",
+  "spec_version": "2.0",
+  "subcategory": "static-site-generators",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "static-site-generators",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "hexo Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/static-site-generators/hexo"
+}
